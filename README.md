@@ -36,12 +36,16 @@ The df data was analyszed to answer the following questions:
         a. Find the average the minimum daily temperature for all of the months.
         b. Plot the results as a bar chart.
         
+        ![temps_monthly](https://user-images.githubusercontent.com/111457464/212484460-82fb1b7b-e97b-415f-af17-84c5622ede5b.png)
+
         The coldest month of the year is the 3rd month with a temperature of -83.31.
         The warmest monthe of the year is the 8th month with a temperature of -68.38
 
     (4) Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
         a. Find the average the daily atmospheric pressure of all the months.
         b. Plot the results as a bar chart.
+        
+        ![pressure_monthly](https://user-images.githubusercontent.com/111457464/212484467-ca0b7d5e-1170-4ec5-88ed-a8452f48901a.png)
 
         The 6th month has the lowest average atmospheric pressure of 745.05.
         The 9th month has the highest average atmospheric pressure of 913.31
@@ -49,6 +53,8 @@ The df data was analyszed to answer the following questions:
     (5) About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
         a. Consider how many days elapse on Earth in the time that Mars circles the Sun once.
         b. Visually estimate the result by plotting the daily minimum temperature.
+        
+        ![daily_min_temps](https://user-images.githubusercontent.com/111457464/212484478-ef99bfa5-d2a5-4ae3-ab42-017ffac240ae.png)
 
         Using a for loop to track the month on mars, it was found that the number of Earth days in a Martian year is approxicately 687 days 00:00:00.
         A visual estimate for the number of earth days in a Martian year is 690 days, 0:00:00. Hot dang my estimate was good
